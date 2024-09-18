@@ -25,9 +25,7 @@ Una vez instalado NLTK, se debe importar en el script Python. Además, es  neces
 
 `from nltk.tokenize import word_tokenize` 
 
-`texto = "NLTK es una biblioteca de procesamiento del lenguaje` 
-
-`natural. ¡Es genial!"` 
+`texto = "NLTK es una biblioteca de procesamiento del lenguaje natural. ¡Es genial!"` 
 
 `tokens = word_tokenize(texto)` 
 
